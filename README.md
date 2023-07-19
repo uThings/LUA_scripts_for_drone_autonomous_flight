@@ -1,5 +1,5 @@
 # LUA script for drone autonomous flight
-This repo contains the Lua script developed for autonomous flight of a drone using the GPS sensor to create three different figures, compatible with Ardupilot. This script was developed as part of a Bachelor's thesis project by the student Davide Altamura in collaboration with Professor Pier Luca Montessoro.
+This repo contains a Lua script developed as part of a Bachelor's thesis project by the student Davide Altamura in collaboration with Professor Pier Luca Montessoro.
 
 ## Introduction
 The script makes your drone execute three possible figures (square, circle and eight) by pressing a specific button on your radio. All the movements are performed using the GPS sensor, making them smooth and precise.
